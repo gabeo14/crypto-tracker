@@ -2,12 +2,37 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-color: #8D99AE;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  text-align: center;
+  background-color: #D80032;
+  width: 504px;
 }
 
 table {
-  border: 2px solid #696969
+  border: 2px solid #696969;
+  background-color: #EDF2F4;
+  width: 500px;
+}
+
+tr {
+  background-color: #2B2D42;
 }
 
 td {
-  border: 2px solid #696969
+  border: 2px solid #696969;
+  color: #EDF2F4;
+}
+
+tr.categories td {
+  background-color: #EF233C;
+  color: #2B2D42;
 }
