@@ -1,6 +1,5 @@
-This project is a cryptocurrency tracker that uses React (https://reactjs.org/) and the Coin Market Cap api (https://coinmarketcap.com/api/)
+![](https://imgur.com/a/nmKV8sp)
 
+This project is a cryptocurrency tracker that uses React (https://reactjs.org/) and the Coin Market Cap api (https://coinmarketcap.com/api/).  It hits the api every ten seconds to see if information has changed, and if it has, it updates the display.
 
-
-
-http://luxuriant-feast.surge.sh/
+Project-link: (http://luxuriant-feast.surge.sh/)
